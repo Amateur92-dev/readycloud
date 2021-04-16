@@ -1,0 +1,6 @@
+# Project exclude paths
+/microserver-api/target/
+/microserver-comsumer/target/
+/microserver-eurekaserver/target/
+/microserver-services-9001/target/
+/microserver-services-9002/target/
